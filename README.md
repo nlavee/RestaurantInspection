@@ -6,7 +6,7 @@ This project focuses on the application of statistics concepts such as Permutati
 
 Here are some sample interesting plots we have found during the course of this project:
 
-![](Plots/DistributionOfScore.jpeg)
+![](Plots/DistributionofScore.jpeg)
 ![](Plots/RoachProblemNYC.jpeg)
 ![](Plots/RodentProblem.jpeg)
 ![](Plots/DensityPlotForScore.jpeg)
