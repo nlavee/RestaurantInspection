@@ -1,3 +1,0 @@
-load("/Users/anhnguyen/Dropbox/RestaurantInspection/restaurantClean.Rda")
-load("/Users/anhnguyen/Dropbox/RestaurantInspection/restaurantRaw.Rda")
-load("/Users/codycouture/Dropbox/RestaurantInspection/restaurantClean.Rda")
